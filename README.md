@@ -1,4 +1,4 @@
-# basic-threads-and-sockets
+# java
 just a repo about me fafoing java
 
 # for concurrency reading this
