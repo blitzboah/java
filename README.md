@@ -6,7 +6,9 @@ https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html
 
 # for async java
 https://www.baeldung.com/java-reactive-systems
+
 https://projectreactor.io/docs/core/release/reference/reactiveProgramming.html
+
 https://github.com/excellalabs/reactive-in-java/blob/main/curric-java.md#Reactive-and-Reactor-Curriculum
 
 provided by the god's chosen principal engineer @ludwigABAP on x.com
