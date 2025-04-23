@@ -4,6 +4,9 @@ just a repo about me fafoing java
 # for concurrency reading this
 https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html
 
+## this playlist is superb
+https://youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&feature=shared
+
 # for async java
 https://www.baeldung.com/java-reactive-systems
 
