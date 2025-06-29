@@ -7,7 +7,7 @@ https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html
 ## this playlist is superb
 https://youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&feature=shared
 
-# for async java
+# for reactive java
 https://www.baeldung.com/java-reactive-systems
 
 https://projectreactor.io/docs/core/release/reference/reactiveProgramming.html
